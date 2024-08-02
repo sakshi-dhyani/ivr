@@ -9,9 +9,9 @@
     <url>https://github.com/openapitools/openapi-generator</url>
     <description>SFC-visual-IVR APIs</description>
     <scm>
-        <connection>scm:git:git@github.com:openapitools/openapi-generator.git</connection>
-        <developerConnection>scm:git:git@github.com:openapitools/openapi-generator.git</developerConnection>
-        <url>https://github.com/openapitools/openapi-generator</url>
+        <connection>scm:git:git@github.com:sakshi-dhyani/ivr.git</connection>
+        <developerConnection>scm:git:git@github.com:sakshi-dhyani/ivr.git</developerConnection>
+        <url>https://github.com/sakshi-dhyani/ivr.git</url>
     </scm>
 
     <licenses>
@@ -24,10 +24,10 @@
 
     <developers>
         <developer>
-            <name>OpenAPI-Generator Contributors</name>
-            <email>team@openapitools.org</email>
-            <organization>OpenAPITools.org</organization>
-            <organizationUrl>http://openapitools.org</organizationUrl>
+            <name>sakshi dhyani</name>
+            <email>ibs.sakshi9@gmail.com</email>
+            <organization>ibs</organization>
+            <organizationUrl>https://interestbudsolutions.com/</organizationUrl>
         </developer>
     </developers>
 
