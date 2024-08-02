@@ -9,10 +9,22 @@
     <url>https://github.com/openapitools/openapi-generator</url>
     <description>SFC-visual-IVR APIs</description>
     <scm>
-        <connection>scm:git:git@github.com:sakshi-dhyani/ivr.git</connection>
-        <developerConnection>scm:git:git@github.com:sakshi-dhyani/ivr.git</developerConnection>
-        <url>https://github.com/sakshi-dhyani/ivr.git</url>
-    </scm>
+<connection>scm:git:git@github.com:sakshi-dhyani/ivr.git</connection>
+<developerConnection>scm:git:git@github.com:sakshi-dhyani/ivr.git</developerConnection>
+<url>https://github.com/sakshi-dhyani/ivr.git</url>
+</scm>
+    
+ <distributionManagement>
+<repository>
+<id>ivr</id>
+<url>https://github.com/sakshi-dhyani/ivr.git</url>
+</repository>
+<snapshotRepository>
+<id>ivr</id>
+<url>https://github.com/sakshi-dhyani/ivr.git</url>
+</snapshotRepository>
+</distributionManagement>
+
 
     <licenses>
         <license>
